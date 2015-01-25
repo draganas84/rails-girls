@@ -1,0 +1,7 @@
+
+<h1>Welcome#hello</h1>
+<p>Find me in app/views/welcome/hello.html.erb</p>
+<p class="variable" panel ><%= @welcome %></p>
+
+<a href="/welcome/index" class="btn btn-success btn-lg" > Index page <span class="glyphicon glyphicon-heart" aria-hidden="true"></span></a>
+
